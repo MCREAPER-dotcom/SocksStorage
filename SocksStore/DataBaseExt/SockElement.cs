@@ -11,11 +11,12 @@ namespace DataBaseExt
     {
         [Key]
         public int SocksId { get; set; }
-        [StringLength(10)]
+        [StringLength(50)]
         public string Size { get; set; }
-        [StringLength(10)]
+        [StringLength(50)]
         public string Material { get; set; }
-        [StringLength(10)]
+        [StringLength(50)]
         public string Color { get; set; }
     }
 }
+

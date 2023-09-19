@@ -1,0 +1,14 @@
+C:\Users\MSI\Desktop\SocksStore\SocksStorage\SocksStore\DataBaseExt\bin\Debug\net7.0\DataBaseExt.deps.json
+C:\Users\MSI\Desktop\SocksStore\SocksStorage\SocksStore\DataBaseExt\bin\Debug\net7.0\DataBaseExt.runtimeconfig.json
+C:\Users\MSI\Desktop\SocksStore\SocksStorage\SocksStore\DataBaseExt\bin\Debug\net7.0\DataBaseExt.dll
+C:\Users\MSI\Desktop\SocksStore\SocksStorage\SocksStore\DataBaseExt\bin\Debug\net7.0\DataBaseExt.pdb
+C:\Users\MSI\Desktop\SocksStore\SocksStorage\SocksStore\DataBaseExt\obj\Debug\net7.0\DataBaseExt.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\SocksStore\SocksStorage\SocksStore\DataBaseExt\obj\Debug\net7.0\DataBaseExt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\SocksStore\SocksStorage\SocksStore\DataBaseExt\obj\Debug\net7.0\DataBaseExt.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\SocksStore\SocksStorage\SocksStore\DataBaseExt\obj\Debug\net7.0\DataBaseExt.AssemblyInfo.cs
+C:\Users\MSI\Desktop\SocksStore\SocksStorage\SocksStore\DataBaseExt\obj\Debug\net7.0\DataBaseExt.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\SocksStore\SocksStorage\SocksStore\DataBaseExt\obj\Debug\net7.0\DataBaseExt.dll
+C:\Users\MSI\Desktop\SocksStore\SocksStorage\SocksStore\DataBaseExt\obj\Debug\net7.0\refint\DataBaseExt.dll
+C:\Users\MSI\Desktop\SocksStore\SocksStorage\SocksStore\DataBaseExt\obj\Debug\net7.0\DataBaseExt.pdb
+C:\Users\MSI\Desktop\SocksStore\SocksStorage\SocksStore\DataBaseExt\obj\Debug\net7.0\DataBaseExt.genruntimeconfig.cache
+C:\Users\MSI\Desktop\SocksStore\SocksStorage\SocksStore\DataBaseExt\obj\Debug\net7.0\ref\DataBaseExt.dll

@@ -7,9 +7,9 @@ namespace DataBaseExt
 
         [Key]
         public int Id { get; set; }
-        [StringLength(10)]
+        [StringLength(50)]
         public string CompanyName { get; set; }
-        [StringLength(10)]
+        [StringLength(50)]
         public int SocksId { get; set; }
     }
 }
