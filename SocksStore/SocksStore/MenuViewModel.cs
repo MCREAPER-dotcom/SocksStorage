@@ -36,5 +36,24 @@ namespace SocksStore
             CodeBehind.LoadView(ViewType.PageSocks);
         }
 
+
+
+        private RelayCommand _LoadPageMySocks;
+        public RelayCommand LoadPageMySocks
+        {
+            get
+            {
+                return _LoadPageMySocks = _LoadPageMySocks ??
+                  new RelayCommand(OnLoadPageMySocks, CanLoadPageMySocks);
+            }
+        }
+        private bool CanLoadPageMySocks()
+        {
+            return true;
+        }
+        private void OnLoadPageMySocks()
+        {
+            CodeBehind.LoadView(ViewType.PageMySocks);
+        }
     }
 }

@@ -8,6 +8,7 @@ namespace SocksStore
 {
     public enum ViewType
     {
-        PageSocks
+        PageSocks,
+        PageMySocks
     }
 }

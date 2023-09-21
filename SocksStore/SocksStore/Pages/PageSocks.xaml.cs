@@ -1,4 +1,4 @@
-﻿using DataBaseExt;
+﻿using SocksStore.ApplicationViewModel;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -24,14 +24,7 @@ namespace SocksStore.Pages
         public PageSocks()
         {
             InitializeComponent();
-            using (SocksCompanyContext db = new SocksCompanyContext())
-            {
-                // получаем объекты из бд и выводим на консоль
-                var socks = db.Socks.ToList();
-                var company = db.Company.ToList();
-                MessageBox.Show(socks[0].ToString());
-            }
-            DataContext = new ApplicationViewModel();
+            DataContext = new RandomSocksViewModel();
         }
     }
 }

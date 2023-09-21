@@ -12,9 +12,9 @@
             <ColumnDefinition Width="*" />
             <ColumnDefinition Width="0.8*" />
         </Grid.ColumnDefinitions>
-
+        <TextBlock Text="Случайные носочки^.^"  />
         <ListBox Grid.Column="0" ItemsSource="{Binding Socks}"
-                 SelectedItem="{Binding SelectedSock}">
+                 SelectedItem="{Binding SelectedSock}" Margin="0,27,0,0">
             <ListBox.ItemTemplate>
                 <DataTemplate>
                     <StackPanel Margin="5">

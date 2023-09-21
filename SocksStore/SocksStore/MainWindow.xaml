@@ -10,6 +10,7 @@
     <Grid>
 
         <Button Content="PageSocks" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="25" Width="auto" Background="#d6ebb0" Command="{Binding LoadPageSocks, Mode=OneTime}"/>
+        <Button Content="PageMySocks" HorizontalAlignment="Left" Margin="70,10,0,0" VerticalAlignment="Top" Height="25" Width="auto" Background="#d6ebb0" Command="{Binding LoadPageMySocks, Mode=OneTime}"/>
 
         <Frame x:Name="OutputView" NavigationUIVisibility="Hidden" Margin="0,40,0,1" />
     </Grid>

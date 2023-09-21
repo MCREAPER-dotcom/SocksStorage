@@ -3,9 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SocksStore", "SocksStore\SocksStore.csproj", "{E38B3C4D-E43B-4061-AA03-DEA3101A1A11}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBaseExt", "DataBaseExt\DataBaseExt.csproj", "{A8721FD3-5920-42F0-AAAB-0FD4836C1C59}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocksStore", "SocksStore\SocksStore.csproj", "{77F54E12-1FC9-4A2F-98A6-8AE5156FADBD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,19 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E38B3C4D-E43B-4061-AA03-DEA3101A1A11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E38B3C4D-E43B-4061-AA03-DEA3101A1A11}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E38B3C4D-E43B-4061-AA03-DEA3101A1A11}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E38B3C4D-E43B-4061-AA03-DEA3101A1A11}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A8721FD3-5920-42F0-AAAB-0FD4836C1C59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A8721FD3-5920-42F0-AAAB-0FD4836C1C59}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A8721FD3-5920-42F0-AAAB-0FD4836C1C59}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A8721FD3-5920-42F0-AAAB-0FD4836C1C59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77F54E12-1FC9-4A2F-98A6-8AE5156FADBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77F54E12-1FC9-4A2F-98A6-8AE5156FADBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77F54E12-1FC9-4A2F-98A6-8AE5156FADBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77F54E12-1FC9-4A2F-98A6-8AE5156FADBD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {4142C8FD-125E-4081-A757-5785AD22B83C}
+		SolutionGuid = {88FF9CD3-A815-4C7B-881D-E3841A80E207}
 	EndGlobalSection
 EndGlobal

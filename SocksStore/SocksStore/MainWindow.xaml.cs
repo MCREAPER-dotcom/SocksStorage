@@ -1,4 +1,5 @@
-﻿using SocksStore.Pages;
+﻿using SocksStore.ApplicationViewModel;
+using SocksStore.Pages;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -18,17 +19,18 @@ using static SocksStore.MVC;
 namespace SocksStore
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Логика взаимодействия для MainWindow.xaml
     /// </summary>
     public partial class MainWindow : Window, IMainWindowsCodeBehind
     {
         PageSocks view1;
+        PageMySocks view2;
         public MainWindow()
         {
             view1 = new PageSocks();
             InitializeComponent();
             this.Loaded += MainWindow_Loaded;
-            DataContext = new ApplicationViewModel();
+            DataContext = new RandomSocksViewModel();
         }
         private void MainWindow_Loaded(object sender, RoutedEventArgs e)
         {
@@ -50,6 +52,12 @@ namespace SocksStore
                     view1 = new PageSocks();
 
                     this.OutputView.Content = view1;
+                    break;
+                case ViewType.PageMySocks:
+
+                    view2 = new PageMySocks();
+
+                    this.OutputView.Content = view2;
                     break;
             }
         }

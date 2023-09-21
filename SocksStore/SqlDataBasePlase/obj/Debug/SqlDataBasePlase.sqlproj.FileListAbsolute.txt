@@ -1,6 +1,0 @@
-C:\Users\MSI\Desktop\SocksStore\SocksStorage\SocksStore\SqlDataBasePlase\bin\Debug\SqlDataBasePlase.dacpac
-C:\Users\MSI\Desktop\SocksStore\SocksStorage\SocksStore\SqlDataBasePlase\bin\Debug\SqlDataBasePlase.dll
-C:\Users\MSI\Desktop\SocksStore\SocksStorage\SocksStore\SqlDataBasePlase\bin\Debug\SqlDataBasePlase.pdb
-C:\Users\MSI\Desktop\SocksStore\SocksStorage\SocksStore\SqlDataBasePlase\obj\Debug\SqlDataBasePlase.sqlproj.AssemblyReference.cache
-C:\Users\MSI\Desktop\SocksStore\SocksStorage\SocksStore\SqlDataBasePlase\obj\Debug\SqlDataBasePlase.dll
-C:\Users\MSI\Desktop\SocksStore\SocksStorage\SocksStore\SqlDataBasePlase\obj\Debug\SqlDataBasePlase.pdb
